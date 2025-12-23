@@ -1,0 +1,6 @@
+txt
+
+pandas
+rapidfuzz
+nlp(base level)
+numpy
